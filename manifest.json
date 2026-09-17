@@ -1,0 +1,37 @@
+{
+  "manifest_version": "1.0",
+  "org": "remy",
+  "repo": "undefsafe",
+  "versions": [
+    {
+      "commit": "5d3fa3460e6716ed85dd3d41f4973fcd0896493d",
+      "parsed_at": "2026-09-17T05:29:26.353071+00:00",
+      "tag": "v2.0.5",
+      "filetree": "filetree/5d3fa3460e6716ed85dd3d41f4973fcd0896493d.nq.gz",
+      "blobs": [
+        "blob/c5b3792d551edd890e0fb6d733d1c5e61369af5b.nq.gz",
+        "blob/a1ace24a762a27bcee0010afeaceecd44d20778d.nq.gz",
+        "blob/42c6d7c9f0bc52b14a52bcfc38b161c982fb2d15.nq.gz",
+        "blob/72afc00e4d674badf62712ac702048dbdc60d93f.nq.gz",
+        "blob/ce67f0b8a67729a8e504a40a7b89e6e3529fccd8.nq.gz",
+        "blob/0a6464208148274f1c8e9b05033c73c5a9386014.nq.gz",
+        "blob/caaf03ae2482776e4bb88c28fc231b60de4caf79.nq.gz",
+        "blob/b47f672fd9451ebe3a3378f4f84166dcdd13fc27.nq.gz",
+        "blob/bfc4795d3a9440c14a09eea09b1081a279283e37.nq.gz",
+        "blob/be74c90138d8072e07800dfb555174d7522d9ea8.nq.gz",
+        "blob/e6ee8866858f79b90eb2b1ea8d5181fc8a041b74.nq.gz",
+        "blob/ed93c23bbf1ac7ef3b17595d2b51e313e8e6fc53.nq.gz",
+        "blob/46a706bc09c13f5b697315bf50692f42dcd8075c.nq.gz",
+        "blob/5f6a848de1d716ecbfe8e743cc2cd835447cd448.nq.gz",
+        "blob/9e01c9bebe37be1b0217bf89ef704a97ba7a6f85.nq.gz",
+        "blob/1e05b2e569142f8e9bf4faf4fa88aff8a286b1be.nq.gz",
+        "blob/744687805338a7d480ff922d75222b414d8b682f.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
